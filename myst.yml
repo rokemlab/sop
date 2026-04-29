@@ -9,7 +9,31 @@ project:
   github: https://github.com/rokemlab/sop
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - file: content/01-intro.md
+    root: content/intro
+    sections:
+    - file: content/general/general
+      sections:
+      - file: content/general/mvv
+      - file: content/general/coc
+      - file: content/general/onboarding
+      - file: content/general/learning
+      - file: content/general/prospectives
+    - file: content/comms/comms
+      sections:
+      - file: content/comms/slack
+    - file: content/publishing/publishing
+      sections:
+      - file: content/publishing/figures
+      - file: content/publishing/conference_abstracts
+      - file: content/publishing/posters
+      - file: content/publishing/papers
+      - file: content/publishing/notebooks
+    - file: content/infra/infra
+      sections:
+      - file: content/infra/github
+      - file: content/infra/aws
+      - file: content/infra/software_projects
+
   license: CC-BY-4.0
   open_access: true
 
