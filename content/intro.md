@@ -1,3 +1,8 @@
+---
+author:
+title: Standard Operating Procedures
+---
+
 Standard Operating Procedures
 =============================
 
