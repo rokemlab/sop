@@ -1,7 +1,7 @@
 # Information for prospective students
 
 Prospective graduate students should read these pages, as well as look
-through the [group's website](https://neuroinformatics.uw.edu/) to learn
+through the [group's website](https://rokemlab.github.io/) to learn
 about current directions of our research, and see where members of the lab
 who have graduated are currently working.
 
@@ -9,14 +9,15 @@ who have graduated are currently working.
 
 The lab can take students through one of the following programs:
 
-- The [Psychology Graduate Program](https://psych.uw.edu/graduate). In particular, prospective students interest in joining the group should apply to the [Cognition and Perception area](https://psych.uw.edu/graduate/areas/cognition-and-perception) and list Ariel among the faculty they are interested in working with.
-- The [Graduate Program in Neuroscience](https://depts.washington.edu/neurogrd/).
-- The [Graduate Program at the Allen School for Computer Science & Engineering](https://www.cs.washington.edu/academics/phd/process).
+- The [Institute for Medical Science](https://ims.utoronto.ca/).
 
 
 ## Some FAQs:
 
-1. How does the lab handle flexibility in terms of work hours and location? For example, are there expectations for regular in-person lab presence, or is there flexibility for remote collaboration, particularly for computationally focused projects?
+1. How does the lab handle flexibility in terms of work hours and location? For
+example, are there expectations for regular in-person lab presence, or is there
+flexibility for remote collaboration, particularly for computationally focused
+projects?
 
 There are no specific requirements for in-office hours. I understand that
 different people have different needs and get their work done at different
@@ -29,19 +30,14 @@ people to revisit their goals and progress on a regular basis -- typically
 quarterly -- and see whether and what needs adjustment. That should help
 folks make progress towards their goals, and also prevent people from
 spinning their wheels. See also
-[this page](https://nrdg.github.io/sop/general/general.html#working-hours).
+[this page](https://rokemlab.github.io/sop/general/general.html#working-hours).
 
-2. What is the office setup like?
+1. What is the office setup like?
 
-Our group has its space in the Center for Human Neuroscience (established in
-2021) that is on the 5th floor of Kincaid Hall. We are co-located with several
-other Cognition/Perception groups here. The floor has a lot of shared spaces: a
-break room and kitchen, as well as a big meeting room and some spaces for
-co-working. There's plenty of desk space for students/postdocs/RAs and the
-Cog/Per faculty all have their offices within the same space, so there are a
-lot of opportunities for interaction, and we often hold joint group meetings.
+XXX
 
-3. I've heard of some labs where publishing anywhere other than Nature/Science is discouraged. Is this the case in your lab?
+1. I've heard of some labs where publishing anywhere other than Nature/Science
+is discouraged. Is this the case in your lab?
 
 I definitely don't discourage anyone from publishing in Nature/Science... I
 understand and can generally agree with a philosophy that encourages
@@ -54,10 +50,10 @@ continue to do work that gets published in such journals (and that we'll be
 proud of). I also don't think there is anything wrong with work that is
 ["incremental"](https://elifesciences.org/articles/54867). One day maybe we'll
 publish a Nature/Science article, but that hasn't happened yet (see the group's
-[publications page](https://neuroinformatics.uw.edu/publications/)) to see
+[publications page](https://rokemlab.github.io/publications/)) to see
 where and what we have published.
 
-4. Do you have a specific number of papers you expect students to publish?
+1. Do you have a specific number of papers you expect students to publish?
 
 In the best case, I think that a PhD needs to be substantial and coherent.
 It's not so much about a particular number of papers, but more about making
@@ -72,14 +68,12 @@ probably result in approximately 3 lead-author papers. I'd also encourage
 students to collaborate with others and contribute as non-lead authors on
 another couple of papers, either within the group or with other groups (we
 collaborate a lot). I think that one outcome of this kind of trajectory is
-the development of $\pi$-shaped people (not literally! see [this post by
-Jake Vanderplas for some more
-details](https://jakevdp.github.io/blog/2014/08/22/hacking-academia/)). So,
+the development of $\pi$-shaped people (not literally! see [this post by Jake Vanderplas for some more details](https://jakevdp.github.io/blog/2014/08/22/hacking-academia/)). So,
 the goal is not so much about the number of papers per se (though
 publishing is definitely a good thing!), but more about the kind of
 training that this kind of PhD would result in.
 
-5. How do you support students who aren't making progress on their goals?
+1. How do you support students who aren't making progress on their goals?
 
 I think that the main thing to do in these situations is to figure out why
 they are not making progress. If it is because they need more feedback
@@ -103,27 +97,10 @@ lives. It's easy to think that you will make more progress by digging in,
 but often what you really need is a weekend of walking in a forest, or
 doing something else you enjoy (other than research, that is).
 
-6. What is the general exam process like at UW?
-
-The "General Exam" is typically taken in the third year. It has to cover both
-depth on the student's research topic, as well as breadth of literature from
-related fields. There is a written portion, which can take one of several
-forms: a review paper, a grant proposal, and/or answers to a set of questions
-created by the committee, and an oral portion, which is basically a
-discussion with the committee based on the written portion. From what I have
-seen, the written and oral portions are usually taken close in time, while
-material from the written portion is still fresh in the student's mind. I
-think that it's a good opportunity to step away from the nitty-gritty of the
-work the student is doing, get some perspective, and get well acquainted with
-relevant literature. It's also an opportunity to soak up some knowledge from
-committee members other than the advisor. There is a lot more
-information about the program in the [program manual](https://uwnetid.sharepoint.com/sites/uw_psych_public/Graduate/Forms/Student%20Manuals.aspx?ga=1&id=%2Fsites%2Fuw%5Fpsych%5Fpublic%2FGraduate%2FStudent%20Manuals%2FGraduate%20Student%20Manual%2Epdf&parent=%2Fsites%2Fuw%5Fpsych%5Fpublic%2FGraduate%2FStudent%20Manuals) (see page 21 for
-information about the general exam, and page 4 for a table of all the program milestones).
-
-7. Where have your former students gone after completing their PhDs, and how do you guide them in building careers in computational neuroscience, either in academia or industry?
+1. Where have your former students gone after completing their PhDs, and how do you guide them in building careers in computational neuroscience, either in academia or industry?
 
 Lab alumni (together with their current position, if known) are listed on [this
-page](https://neuroinformatics.uw.edu/team/). As you can see there, career
+page](https://rokemlab.github.io/team/#alumni). As you can see there, career
 trajectories vary with some academic researchers and faculty and some who have
 gone to industry. I believe (hope?) that the training that folks can get in the
 lab serves as a good preparation for either kind of career (and maybe others?).
@@ -134,7 +111,7 @@ facilitate more choice, I tend to also encourage trainees to seek out
 opportunities to experience other kinds of environments, e.g., through industry
 internships.
 
-8. With ongoing interdisciplinary work, how do you approach integrating techniques from other fields, such as computational neuroscience or data science, into your lab’s projects? What skills do you see as most valuable for students contributing to these collaborations?
+1. With ongoing interdisciplinary work, how do you approach integrating techniques from other fields, such as computational neuroscience or data science, into your lab’s projects? What skills do you see as most valuable for students contributing to these collaborations?
 
 Because the work is so interdisciplinary, it is abundantly clear that
 people from a variety of different backgrounds can contribute, so long as
@@ -145,7 +122,7 @@ brain structure and function and about the kinds of questions we can ask
 with human neuroscience data. A person with a strong background in biology
 will have to learn some software engineering and statistics. Overall,
 because the core of our work is _neuroinformatics_, across all projects we
-highly prioritize software engineering skills. This does mean a degree in
+highly prioritize software engineering skills. This does _not_ mean a degree in
 computer science or in engineering (I don't have either of these
 myself...), but the equivalent of "bench skills" in our work is the ability
 to write computer software that is robust, functional and does what it
