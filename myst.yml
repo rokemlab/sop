@@ -2,7 +2,7 @@
 version: 1
 project:
   title: Standard Operating Procedures
-  description: Rokem Neuroinformatics R&D Group lab manual of sorts
+  description: Rokem Neuroinformatics R&D Group lab manual
   # keywords: []
   authors: [Ariel Rokem]
   github: https://github.com/rokemlab/sop
