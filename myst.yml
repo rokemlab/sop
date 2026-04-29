@@ -1,7 +1,6 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: 38e6a0e1-6421-4bdb-94c4-7fbbf6ce1365
   title: Standard Operating Procedures
   description: Rokem Neuroinformatics R&D Group lab manual of sorts
   # keywords: []
