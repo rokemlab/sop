@@ -4,7 +4,6 @@ project:
   title: Standard Operating Procedures
   description: Rokem Neuroinformatics R&D Group lab manual
   # keywords: []
-  authors: [Ariel Rokem]
   github: https://github.com/rokemlab/sop
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:

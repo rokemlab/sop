@@ -1,5 +1,4 @@
 ---
-author:
 title: Standard Operating Procedures
 ---
 
