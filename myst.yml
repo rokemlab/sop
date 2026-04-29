@@ -37,6 +37,7 @@ project:
   open_access: true
 
 site:
+  logo_text: NRDG SOP
   template: book-theme
   # options:
   #   favicon: favicon.ico
