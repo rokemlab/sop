@@ -7,4 +7,6 @@
 - [Groupyr](https://nrdg.github.io/groupyr/)
 - [Tractable](https://tractometry.org/tractable)
 - [fracridge](https://nrdg.github.io/fracridge/)
+- [fwe](https://github.com/nrdg/fwe/)
+- [anat2vessels](https://github.com/nrdg/anat2vessels/)
 - [DIPY](https://dipy.org)

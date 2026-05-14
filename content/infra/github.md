@@ -2,10 +2,12 @@
 
 The group's GitHub organization can be found at [https://github.com/nrdg](https://github.com/nrdg).
 
-We also maintain several community-based repositories at [https://github.com/tractometry](https://github.com/tractometry).
+We also maintain several community-based repositories at [https://github.com/tractometry](https://github.com/tractometry) and in [https://github.com/dipy](https://github.com/dipy).
 
-Our general development workflow follows very closely [the approach used by
-nibabel and many other projects](https://nipy.org/nibabel/gitwash/index.html):
+Lab websites are in [https://github.com/rokemlab](https://github.com/rokemlab), and render to [https://rokemlab.github.io/](https://rokemlab.github.io/), [https://rokemlab.github.io/sop](https://rokemlab.github.io/sop) (which is this site!)
+
+
+Our general development workflow follows very closely [the approach used by nibabel and many other projects](https://nipy.org/nibabel/gitwash/index.html):
 Developers create a _fork_ of the repository, and contribute code through pull
 requests from feature branches on their fork of the repository. Though it
 requires some initial learning, this workflow provides the best experience
